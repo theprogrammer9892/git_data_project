@@ -1,6 +1,6 @@
 # Git Data Project
 
-Proyecto de práctica para aprender Git aplicado a ingeniería de datos.
+Proyecto de práctica para aprender Git, ramas y control de versiones aplicado a ingeniería de datos.
 
 ## Estructura del proyecto
 
