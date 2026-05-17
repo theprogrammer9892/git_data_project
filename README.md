@@ -18,7 +18,3 @@ Pasos básicos:
 2. Ejecutar scripts de limpieza desde `scripts/`.
 3. Crear tablas usando los scripts de `sql/`.
 4. Versionar cambios importantes con Git.
-
-## Autor
-
-Proyecto creado como práctica de Git y GitHub.
