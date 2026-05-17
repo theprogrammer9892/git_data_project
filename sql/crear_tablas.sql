@@ -5,3 +5,4 @@ CREATE TABLE ventas (
     precio NUMERIC(10, 2),
     fecha_venta DATE
 );
+
